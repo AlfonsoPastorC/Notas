@@ -9,7 +9,8 @@ git comit
 5 git log ver versiones
 6 git log --oneline para ver versiones en una linea
 7 git branch crear una rama
-8 git checkout saltar a la rama
+
 9 git branch -d elimina la linea
-10 git checkout -b crea y salta a la rama 
+10 git checkout -b crea y salta a la rama
+11 gg 
 git branch para 
