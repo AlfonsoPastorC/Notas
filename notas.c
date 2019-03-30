@@ -1,6 +1,5 @@
 git init
 git add
-git comit
 
 1 git init para inicializar crea el staging area y el repository
 2 despues git status todos los archivos que se encuentran en rojo estan en la carpeta
@@ -12,7 +11,7 @@ git comit
 8 git checkout saltar a la rama
 9 git branch -d elimina la linea
 10 git checkout -b crea y salta a la rama 
-git branch para 
+
 
 
 mennnnnnnn
