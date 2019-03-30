@@ -13,3 +13,6 @@ git comit
 9 git branch -d elimina la linea
 10 git checkout -b crea y salta a la rama 
 git branch para 
+
+
+mennnnnnnn
