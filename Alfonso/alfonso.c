@@ -12,4 +12,7 @@ git comit
 8 git checkout saltar a la rama
 9 git branch -d elimina la linea
 10 git checkout -b crea y salta a la rama 
+oihdfgdfig
+ksdngionsd
+joposdjf
 git branch para 

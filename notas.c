@@ -1,6 +1,5 @@
 git init
 git add
-git comit
 
 1 git init para inicializar crea el staging area y el repository
 2 despues git status todos los archivos que se encuentran en rojo estan en la carpeta
