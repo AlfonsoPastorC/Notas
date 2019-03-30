@@ -1,0 +1,26 @@
+COMANDOS IMPORTANTES:
+git init  (para inicializar el staging area(una especie de limbo) y repository(acá se guarda el historial))
+git add
+git commit
+git status (para ver los archivos que se encuentran en la carpeta seleccionada)
+git add .  (para pasar al staging area)
+git commit -m "(first commit)" (lo que esta entre parentesis es la descripcion del estado)
+git log --oneline (Muestra el nombre de todos los "repositorios" )
+git log (Muestra quienes hicieron los cambios, muestra el historial)
+
+PODEMOS TRABAJAR EN OTRA LINEA, EN LUGAR DE TRABAJAR EN EL MASTER
+
+git branch [nombre de la nueva rama] (Para crear una nueva rama)
+git branch --all (Para ver todas la)
+git checkout [nombre de la rama a saltar]
+
+git checkout -b [Nombre de la rama] (Crea y salta a la rama)
+git branch -d [Nombre de la rama] (Elimina la rama)
+
+PARA LLEVARLO AL MASTER SE USA MERGE
+git checkout [rama 1]
+git merge [rama 2]
+
+git push origin [Nombre de la rama]
+
+git clone [URL-repo]
